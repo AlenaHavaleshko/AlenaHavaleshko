@@ -13,7 +13,7 @@
 
 [RentalCar](https://github.com/AlenaHavaleshko/tech_project_goit) – is a modern car rental application built with Next.js. The platform provides users with a convenient and intuitive way to browse available vehicles and make rental requests. Tech stack: Next.js, TypeScript, React, REST API, Zustand. [🔗 Live Preview](https://tech-project-goit-yz24.vercel.app/)
 
-[Podorozhnyky-App-FE](https://github.com/AlexNovickiy/nextjs-project-team-1-podorozhnyky) [Podorozhnyky-App-BE] (https://github.com/AlexNovickiy/node-js-project-team-1) is an online platform connecting people passionate about travel and discovering new places. Built as a full-stack app with React, Node.js, and MongoDB, it lets users share travel stories, exchange experiences, and find inspiration for adventures. Tech stack: Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand. [🔗 Live Preview](https://nextjs-project-team-1-podorozhnyky.vercel.app/) (https://node-js-project-team-1.onrender.com/api-docs/)
+[Podorozhnyky-App-FE](https://github.com/AlexNovickiy/nextjs-project-team-1-podorozhnyky) [Podorozhnyky-App-BE](https://github.com/AlexNovickiy/node-js-project-team-1) is an online platform connecting people passionate about travel and discovering new places. Built as a full-stack app with React, Node.js, and MongoDB, it lets users share travel stories, exchange experiences, and find inspiration for adventures. Tech stack: Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand. [🔗 Live Preview](https://nextjs-project-team-1-podorozhnyky.vercel.app/)
 
 [MusicianTree](https://github.com/denchi21/project-MusicianTree) - [🔗 Live Preview](denchi21.github.io/project-MusicianTree/)
 
