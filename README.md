@@ -9,7 +9,7 @@
 
  💻Featured Projects
 
- https://github.com/AlenaHavaleshko/petlove-app
+
 
  [PetLoveApp](https://github.com/AlenaHavaleshko/petlove-app) is a React-based web application that allows users to explore pet-related news and notices, manage favorite pets, and maintain personal profiles with full responsive design. The project is built using React, TypeScript, React Router, Redux, React Hook Form, Yup, and optimized for retina displays with efficient image handling. [🔗 Live Preview](petlove-app-puce.vercel.app)
  
