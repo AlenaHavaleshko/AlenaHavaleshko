@@ -8,6 +8,10 @@
  JavaScript | TypeScript | Node.js | React | Next.js | Node.js | Express | MongoDB | REST API | Vite | SASS
 
  💻Featured Projects
+
+ https://github.com/AlenaHavaleshko/petlove-app
+
+ [PetLoveApp](https://github.com/AlenaHavaleshko/petlove-app) is a React-based web application that allows users to explore pet-related news and notices, manage favorite pets, and maintain personal profiles with full responsive design. The project is built using React, TypeScript, React Router, Redux, React Hook Form, Yup, and optimized for retina displays with efficient image handling. [🔗 Live Preview](petlove-app-puce.vercel.app)
  
 [NannyServices](https://github.com/AlenaHavaleshko/nanny-service-app) is a React-based web application that allows users to browse available nannies, explore detailed caregiver profiles, and submit appointment requests with ease. The application is built using React, TypeScript, React Router, Firebase Authentication, Firebase Database, and Zustand for state management. [🔗 Live Preview](https://nanny-service-app.vercel.app/)
 
