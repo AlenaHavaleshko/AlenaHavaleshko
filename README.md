@@ -2,7 +2,9 @@
 
  Junior Fullstack Developer | React | Node.js 
  
- I am full-stack developer with practical experience in JavaScript, React, Next.js, Node.js, and MongoDB. Strong background in building both single-page (SPA) and multi-page (MPA) applications, integrating RESTful APIs, and developing responsive, accessible user interfaces. Comfortable working in Agile/Scrum environments, writing clean and maintainable code, collaborating via Git/GitHub, and optimising application performance. Motivated by solving complex problems and delivering scalable, user-centric web solutions.
+ Full-Stack Developer experienced in developing responsive web applications using React, Next.js, TypeScript, Node.js, Express, and MongoDB. Implemented
+REST APIs, authentication, and form validation in both team and personal projects. With a background in QA, I apply a quality-focused approach to development,
+including API testing and data validation. Combined with leadership experience in banking, I bring strong attention to detail, problem-solving skills, and effective team communication.
 
  🧰 Tech Stack  
  JavaScript | TypeScript | Node.js | React | Next.js | Node.js | Express | MongoDB | REST API | Vite | SASS
